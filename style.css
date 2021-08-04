@@ -18,7 +18,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	font-family: 'Futura', monospace;
-	background: linear-gradient(90deg, rgb(254, 159, 217), rgb(254, 159, 217))center bottom;
+	background: linear-gradient(90deg, rgb(254, 159, 217), rgb(254, 159, 217)), center bottom;
 	background-size: cover;
 	color: #fff;
 }
