@@ -6,6 +6,7 @@ html, body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
 }
 
 img {
@@ -66,19 +67,48 @@ body {
 	color: #fff;
 }
 
-.contact {
+.blogger {
 	display: inline-block;
-	background-color: #fff;
+	background-color: #ffa500;
 	padding: 1px 0.5rem;
 	text-decoration: none;
-	color: #000;
+	color: #fff;
 	border-radius: 99rem;
-	border: 2px solid #fff;
 	box-shadow: 0 4px 6px -1px rgba(0, 0, 0, .1), 0 2px 4px -1px rgba(0, 0, 0, .06);
 	transition: .25s ease;
 }
 
-.contact:hover {
+.saweria {
+	display: inline-block;
+	background-color: #008cff;
+	padding: 1px 0.5rem;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 99rem;
+	box-shadow: 0 4px 6px -1px rgba(0, 0, 0, .1), 0 2px 4px -1px rgba(0, 0, 0, .06);
+	transition: .25s ease;
+}
+
+.youtube {
+	display: inline-block;
+	background-color: red;
+	padding: 1px 0.5rem;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 99rem;
+	box-shadow: 0 4px 6px -1px rgba(0, 0, 0, .1), 0 2px 4px -1px rgba(0, 0, 0, .06);
+	transition: .25s ease;
+}
+
+.saweria:hover {
+	background-color: transparent;
+	color: #fff;
+}
+.youtube:hover {
+	background-color: transparent;
+	color: #fff;
+}
+.blogger:hover {
 	background-color: transparent;
 	color: #fff;
 }
@@ -131,8 +161,15 @@ body {
 		font-size: 40px;
 	}
 
+	.blogger {
+		padding: 8px 2.5rem;
+	}
 
-	.contact {
+	.saweria {
+		padding: 8px 2.5rem;
+	}
+
+	.youtube {
 		padding: 8px 2.5rem;
 	}
 	.profile_contact {
