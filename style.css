@@ -67,9 +67,9 @@ body {
 	color: #fff;
 }
 
-.blogger {
+.instagram {
 	display: inline-block;
-	background-color: #ffa500;
+	background-color: #ff00dd;
 	padding: 1px 0.5rem;
 	text-decoration: none;
 	color: #fff;
@@ -108,7 +108,7 @@ body {
 	background-color: transparent;
 	color: #fff;
 }
-.blogger:hover {
+.instagram:hover {
 	background-color: transparent;
 	color: #fff;
 }
@@ -161,7 +161,7 @@ body {
 		font-size: 40px;
 	}
 
-	.blogger {
+	.instagram {
 		padding: 8px 2.5rem;
 	}
 
