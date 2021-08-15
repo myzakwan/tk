@@ -67,9 +67,9 @@ body {
 	color: #fff;
 }
 
-.instagram {
+.facebook {
 	display: inline-block;
-	background-color: #ff00dd;
+	background-color: #008cff;
 	padding: 1px 0.5rem;
 	text-decoration: none;
 	color: #fff;
@@ -80,7 +80,7 @@ body {
 
 .saweria {
 	display: inline-block;
-	background-color: #008cff;
+	background-color: #ff00dd;
 	padding: 1px 0.5rem;
 	text-decoration: none;
 	color: #fff;
@@ -108,7 +108,7 @@ body {
 	background-color: transparent;
 	color: #fff;
 }
-.instagram:hover {
+.facebook:hover {
 	background-color: transparent;
 	color: #fff;
 }
@@ -161,7 +161,7 @@ body {
 		font-size: 40px;
 	}
 
-	.instagram {
+	.facebook {
 		padding: 8px 2.5rem;
 	}
 
