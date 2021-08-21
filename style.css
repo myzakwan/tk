@@ -67,9 +67,20 @@ body {
 	color: #fff;
 }
 
-.facebook {
+.blogger {
 	display: inline-block;
-	background-color: #008cff;
+	background-color: #ff7300;
+	padding: 1px 0.5rem;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 99rem;
+	box-shadow: 0 4px 6px -1px rgba(0, 0, 0, .1), 0 2px 4px -1px rgba(0, 0, 0, .06);
+	transition: .25s ease;
+}
+
+.instagram {
+	display: inline-block;
+	background-color: #ff00dd;
 	padding: 1px 0.5rem;
 	text-decoration: none;
 	color: #fff;
@@ -80,7 +91,7 @@ body {
 
 .saweria {
 	display: inline-block;
-	background-color: #ff00dd;
+	background-color: #008cff;
 	padding: 1px 0.5rem;
 	text-decoration: none;
 	color: #fff;
@@ -100,6 +111,10 @@ body {
 	transition: .25s ease;
 }
 
+.blogger:hover {
+	background-color: transparent;
+	color: #fff;
+}
 .saweria:hover {
 	background-color: transparent;
 	color: #fff;
@@ -108,7 +123,7 @@ body {
 	background-color: transparent;
 	color: #fff;
 }
-.facebook:hover {
+.instagram:hover {
 	background-color: transparent;
 	color: #fff;
 }
@@ -160,8 +175,11 @@ body {
 	.profile__info h1 {
 		font-size: 40px;
 	}
-
-	.facebook {
+	
+	.blogger {
+		padding: 8px 2.5rem;
+	}
+	.instagram {
 		padding: 8px 2.5rem;
 	}
 
