@@ -69,7 +69,7 @@ body {
 
 .tiktok {
 	display: inline-block;
-	background-color: #26e2ce;
+	background-color: #008cff;
 	padding: 1px 0.5rem;
 	text-decoration: none;
 	color: #fff;
@@ -80,7 +80,7 @@ body {
 
 .nimo {
 	display: inline-block;
-	background-color: #ff00dd;
+	background-color: #008cff;
 	padding: 1px 0.5rem;
 	text-decoration: none;
 	color: #fff;
@@ -91,7 +91,7 @@ body {
 
 .instagram {
 	display: inline-block;
-	background-color: #ff6c00;
+	background-color: #008cff;
 	padding: 1px 0.5rem;
 	text-decoration: none;
 	color: #fff;
@@ -113,7 +113,7 @@ body {
 
 .youtube {
 	display: inline-block;
-	background-color: red;
+	background-color: #008cff;
 	padding: 1px 0.5rem;
 	text-decoration: none;
 	color: #fff;
