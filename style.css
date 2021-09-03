@@ -67,6 +67,17 @@ body {
 	color: #fff;
 }
 
+.tiktok {
+	display: inline-block;
+	background-color: #000;
+	padding: 1px 0.5rem;
+	text-decoration: none;
+	color: #fff;
+	border-radius: 99rem;
+	box-shadow: 0 4px 6px -1px rgba(0, 0, 0, .1), 0 2px 4px -1px rgba(0, 0, 0, .06);
+	transition: .25s ease;
+}
+
 .nimo {
 	display: inline-block;
 	background-color: #ff00dd;
@@ -127,6 +138,10 @@ body {
 	background-color: transparent;
 	color: #fff;
 }
+.tiktok:hover {
+	background-color: transparent;
+	color: #fff;
+}
 
 .social__links {
 	margin-top: 1rem;
@@ -184,6 +199,9 @@ body {
 	}
 
 	.saweria {
+		padding: 8px 2.5rem;
+	}
+	.tiktok {
 		padding: 8px 2.5rem;
 	}
 
