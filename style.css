@@ -67,9 +67,9 @@ body {
 	color: #fff;
 }
 
-.blogger {
+.nimo {
 	display: inline-block;
-	background-color: #ff7300;
+	background-color: #ff00dd;
 	padding: 1px 0.5rem;
 	text-decoration: none;
 	color: #fff;
@@ -80,7 +80,7 @@ body {
 
 .instagram {
 	display: inline-block;
-	background-color: #ff00dd;
+	background-color: #ff6c00;
 	padding: 1px 0.5rem;
 	text-decoration: none;
 	color: #fff;
@@ -111,7 +111,7 @@ body {
 	transition: .25s ease;
 }
 
-.blogger:hover {
+.nimo:hover {
 	background-color: transparent;
 	color: #fff;
 }
@@ -176,7 +176,7 @@ body {
 		font-size: 40px;
 	}
 	
-	.blogger {
+	.nimo {
 		padding: 8px 2.5rem;
 	}
 	.instagram {
